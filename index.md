@@ -1,6 +1,6 @@
 # 隱私權政策 / Privacy Policy
 
-最後更新 / Last updated: 2026-10-20
+最後更新 / Last updated: 2026-10-27
 
 ## 繁體中文
 
@@ -19,7 +19,7 @@ FlashCard（以下稱「本 App」）重視你的隱私。本政策說明本 App
 為了了解哪些功能實際被使用、進而改善 App，我們使用 [TelemetryDeck](https://telemetrydeck.com)（一家以隱私為導向的分析服務）收集匿名的使用統計，內容包含：
 
 - 你執行的動作，例如完成一次學習、使用聆聽模式或文章生成、切換語言、開啟升級頁或購買訂閱。
-- 基本裝置資訊，例如裝置型號、系統版本與 App 版本。
+- 基本裝置資訊，例如裝置型號、系統版本、App 版本與 App 介面語言。
 - 以安裝為單位產生的匿名識別碼，用來計算不重複的使用者數。
 
 這些資料無法用來識別你的身分，也不會與你的其他資料連結。**我們不會記錄你新增的單字內容。** 本 App 不使用廣告識別碼（IDFA）、不進行跨 App 或跨網站追蹤，也不會與廣告商或資料掮客分享任何資料。
@@ -63,7 +63,7 @@ FlashCard (the "App") respects your privacy. This policy explains how the App ha
 To understand which features are actually used and to improve the App, we use [TelemetryDeck](https://telemetrydeck.com), a privacy-focused analytics service, to collect anonymous usage statistics. This includes:
 
 - Actions you take, such as completing a study session, using Listen Mode or Story Builder, changing the language, opening the upgrade screen, or subscribing.
-- Basic device information, such as device model, OS version and App version.
+- Basic device information, such as device model, OS version, App version and the App's interface language.
 - An anonymous per-installation identifier, used to count unique users.
 
 This data cannot be used to identify you and is not linked to any other data about you. **We do not record the content of the words you add.** The App does not use the advertising identifier (IDFA), does not track you across other apps or websites, and does not share any data with advertisers or data brokers.
