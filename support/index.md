@@ -29,7 +29,7 @@ Pro 有月訂閱與年訂閱兩種，皆為自動續訂，透過你的 Apple 帳
 
 ### 聽不到單字發音
 
-請確認 iPhone 沒有切到靜音模式，並把音量調大。也可以在「統計 → 齒輪」確認「單字發音」已開啟。
+請把音量調大，並在「統計 → 齒輪」確認「單字發音」已開啟。靜音模式下也會發音。
 
 ### 我的單字會被上傳嗎？
 
@@ -72,7 +72,7 @@ Your words and study history are stored only on the device and are never uploade
 
 ### I can't hear the pronunciation
 
-Make sure your iPhone isn't in Silent mode and the volume is up. You can also check that Word Pronunciation is turned on under Stats → gear icon.
+Turn the volume up and check that Word Pronunciation is turned on under Stats → gear icon. Pronunciation plays even in Silent mode.
 
 ### Are my words uploaded anywhere?
 
